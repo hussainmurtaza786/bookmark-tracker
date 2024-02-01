@@ -1,0 +1,22 @@
+.result {
+    color: black;
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+
+}
+
+.result li {
+    list-style: none;
+}
+
+.url {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.name {
+    font-size: 20px;
+    font-weight: bold;
+
+}
